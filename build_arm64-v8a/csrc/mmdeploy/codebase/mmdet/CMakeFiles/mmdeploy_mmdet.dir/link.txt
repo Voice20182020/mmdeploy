@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_mmdet.a CMakeFiles/mmdeploy_mmdet.dir/base_dense_head.cpp.o CMakeFiles/mmdeploy_mmdet.dir/instance_segmentation.cpp.o CMakeFiles/mmdeploy_mmdet.dir/mmdet.cpp.o CMakeFiles/mmdeploy_mmdet.dir/object_detection.cpp.o CMakeFiles/mmdeploy_mmdet.dir/utils.cpp.o CMakeFiles/mmdeploy_mmdet.dir/yolo_head.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_mmdet.a

@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_pose_tracker.a CMakeFiles/mmdeploy_pose_tracker_obj.dir/mmdeploy/pose_tracker.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_pose_tracker.a

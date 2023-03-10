@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../lib/libmmdeploy_transform_module.a CMakeFiles/mmdeploy_transform_module.dir/transform_module.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../lib/libmmdeploy_transform_module.a

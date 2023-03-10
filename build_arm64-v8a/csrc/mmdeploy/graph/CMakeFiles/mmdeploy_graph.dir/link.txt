@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../lib/libmmdeploy_graph.a CMakeFiles/mmdeploy_graph.dir/task.cpp.o CMakeFiles/mmdeploy_graph.dir/static_router.cpp.o CMakeFiles/mmdeploy_graph.dir/inference.cpp.o CMakeFiles/mmdeploy_graph.dir/pipeline.cpp.o CMakeFiles/mmdeploy_graph.dir/cond.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../lib/libmmdeploy_graph.a

@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_common.a CMakeFiles/mmdeploy_common_obj.dir/mmdeploy/common.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_common.a

@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_cpu_device.a CMakeFiles/mmdeploy_cpu_device.dir/cpu_device.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_cpu_device.a

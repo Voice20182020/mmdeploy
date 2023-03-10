@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+e3f25879621a4eddce805491887482d0 csrc/mmdeploy/apis/java/CMakeFiles/mmdeploy_java_package
+338d78a8cb17e7e32debd62b7be1f94b csrc/mmdeploy/apis/java/CMakeFiles/mmdeploy_java_package.dir/java_class_filelist
+359d329f0daa733f3a7d75de5cff5a12 csrc/mmdeploy/apis/java/CMakeFiles/mmdeploy_java_package.dir/java_compiled_mmdeploy_java_package
+c3599179fc2959b5ebd48e09a697bc0d lib/mmdeploy.jar

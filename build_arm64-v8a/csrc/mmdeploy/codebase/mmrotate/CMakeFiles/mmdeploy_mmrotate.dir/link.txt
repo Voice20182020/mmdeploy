@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_mmrotate.a CMakeFiles/mmdeploy_mmrotate.dir/mmrotate.cpp.o CMakeFiles/mmdeploy_mmrotate.dir/oriented_object_detection.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_mmrotate.a

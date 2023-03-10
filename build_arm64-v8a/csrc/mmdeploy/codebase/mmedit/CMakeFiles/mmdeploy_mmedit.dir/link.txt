@@ -1,0 +1,2 @@
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar qc ../../../../lib/libmmdeploy_mmedit.a CMakeFiles/mmdeploy_mmedit.dir/mmedit.cpp.o CMakeFiles/mmdeploy_mmedit.dir/restorer.cpp.o
+/opt/android-ndk-r23c/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib ../../../../lib/libmmdeploy_mmedit.a
